@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding:0px;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    margin-top: 5px;
+    background-color: blue;
+    padding: 40px;
+}
+header h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(243, 251, 200);
+}
+nav{
+    background-color: rgb(16, 195, 135);
+    overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    color: cornsilk;
+    float: left;
+    font-weight: bold;
+}
+section h2{
+    margin: 5px;
+    padding: 10px;
+    background-color: cornflowerblue;
+}
+
+.youtubeVideo{
+border: rgb(24, 249, 144) 5px solid;
+margin:5px;
+}
+footer{
+    background-color: blue;
+    overflow: hidden;
+}
+footer a{
+    font-size: 20px;
+    color:white ;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+}
